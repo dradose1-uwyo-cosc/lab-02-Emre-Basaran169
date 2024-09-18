@@ -36,7 +36,7 @@ print(f"The {uni} was founded in {year}")
     # Complete the following print statements using your variables
     #All math must be done within the braces in the f-strings
 x = 5
-y + 10
+y = 10
 print(f"x + y = {x + y}")
 print(f"x - y = {x - y}")
 print(f"x * y = {x * y}")
@@ -51,3 +51,7 @@ print(f"x / y = {x / y}")
         # last_name, which is your last name
         # space, which is a space character 
     # Use string concatenation to print out your full name 
+first_name = "Emre"
+last_name = "Basaran"
+space_character = " "
+print(first_name+space_character+last_name)
