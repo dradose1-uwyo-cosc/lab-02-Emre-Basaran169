@@ -1,4 +1,4 @@
-# [Emre BAsaran]
+# [Emre Basaran]
 ## [Lab 2]
 ## [09/17/2024]
 ## Worked with/sources 
